@@ -1,5 +1,5 @@
 import React from "react";
-import "../styles/HeroSection.css";
+import "../styles/herosection.css";
 import heroImage from "../images/hero_image.png";
 import Image from "next/image";
 
